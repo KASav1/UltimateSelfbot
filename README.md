@@ -2,6 +2,7 @@
 
 # Installation 
 NodeJS : https://nodejs.org/fr/
+
 Winrar : https://www.win-rar.com/start.html?&L=11
 
 # Lancement
@@ -11,7 +12,9 @@ puis vous faite clique droit sur "node_modules.rar" > "extraire ici" et ensuite 
 
 # Credit
 YouTube : https://youtube.com/c/KASav3348
+
 Support Server : https://discord.gg/vAHf4bTJXA
+
 Discord ID : 785243091811827772
 
 
@@ -29,6 +32,8 @@ then you right click on "node_modules.rar"> "extract here" and then you can run 
 
 # Credit
 YouTube : https://youtube.com/c/KASav3348
+
 Support Server : https://discord.gg/vAHf4bTJXA
+
 Discord ID : 785243091811827772
 

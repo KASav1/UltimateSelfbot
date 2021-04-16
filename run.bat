@@ -1,3 +1,3 @@
 @echo off
-start index.exe
+node index.js
 pause
